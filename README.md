@@ -10,7 +10,7 @@
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c%20sharp)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
-![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -34,9 +34,10 @@
 
 ### Framework that I use
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
+![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 
-### Engine that I use
+### Engine that I have used
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 <br>
