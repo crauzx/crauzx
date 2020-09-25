@@ -20,6 +20,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=sass)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
 #### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
