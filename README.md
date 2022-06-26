@@ -42,6 +42,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuejs)
 
 #### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
