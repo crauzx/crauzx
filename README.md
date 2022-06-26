@@ -43,7 +43,7 @@
 ![GraphQl](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![VueJS](https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue)
+![VueJS](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=vue.js)
 
 #### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
